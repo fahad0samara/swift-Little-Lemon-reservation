@@ -5,6 +5,11 @@
 
 This project is part of the Coursera course and serves as a reservation system for the Little Lemon restaurant. The system is built using SwiftUI and aims to provide users with a seamless experience for making restaurant reservations.
 
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| --- | --- | --- |
+| [![Screenshot 1](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/9a5b82aa-0ec6-4e3c-88e9-ee95e0ae5cc2)](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/9a5b82aa-0ec6-4e3c-88e9-ee95e0ae5cc2) | [![Screenshot 2](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/9d9a345d-7770-4141-8541-914143da3500)](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/9d9a345d-7770-4141-8541-914143da3500) | [![Screenshot 3](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/7ed6d1f0-2a42-498b-a245-ab191cdec6af)](https://github.com/fahad0samara/swift-Little-Lemon-reservation/assets/90055525/7ed6d1f0-2a42-498b-a245-ab191cdec6af) |
+
+
 ## Features
 
 - **Restaurant Locations:** View a list of restaurant locations, including city, neighborhood, and phone number details.
